@@ -1,0 +1,26 @@
+body {
+  font-family: Arial;
+  background: #f4f6f8;
+  text-align: center;
+}
+
+.container {
+  background: white;
+  padding: 20px;
+  width: 300px;
+  margin: 100px auto;
+  border-radius: 10px;
+}
+
+input, button {
+  width: 90%;
+  padding: 10px;
+  margin: 10px;
+}
+
+.course-card {
+  background: white;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
